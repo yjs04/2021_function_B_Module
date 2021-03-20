@@ -604,3 +604,105 @@ footer *{color: #fff;}
     border-left: 1px solid #ddd;
     border-color: inherit;
 }
+
+/* culture */
+#culture_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 1em 0;
+    padding-bottom: 0.5em;
+    border-bottom: 2px solid #32547B;
+}
+
+#culture_page_info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#culture_page_info > p{font-size: 1.05em; font-weight: bold;margin: 0;}
+#culture_all_page{margin-right: 1em !important;}
+#culture_list_type{display: flex;}
+.culture_list_btn.select{color: #fff;background-color: #32547B;}
+.culture_list_btn{
+    border: none;
+    background-color: #ddd;
+    padding: 8px 15px;
+    font-size: 1.05em;
+    transition: 0.3s;
+}
+
+.culture_list_btn:hover{opacity: 0.5;}
+#culture_body{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 1em;
+}
+
+.culture_item{
+    width: calc(90% / 4);
+    min-width: 250px;
+    padding: 1em;
+    margin: 10px;
+    border: 3px solid #D7DEFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.culture_item:hover{border-color: #32547B;}
+.culture_item_img{
+    width: 200px;
+    height: 200px;
+    background-color: #ddd;
+    overflow: hidden;
+    text-align: center;
+    line-height: 200px;
+    font-size: 1.05em;
+    font-weight: bold;
+}
+
+.culture_item_title{
+    margin-top: 0.5em;
+    margin-bottom: 0;
+    font-size: 1.15em;
+}
+
+#culture_footer{
+    width: 100%;
+    margin: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.culture_btn{
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: .3s;
+    border-radius: 100%;
+    font-size: 1.05em;
+}
+
+#culture_buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#culture_footer > .culture_btn{margin: 0 1em;}
+#culture_footer > .culture_btn:hover{background-color: #D7DEFF;}
+#culture_buttons > .culture_btn{margin:0 0.5em;}
+#culture_buttons > .culture_btn:hover{background-color: #eee;}
+#culture_buttons > .culture_btn.select{background-color: #32547B;color: #fff;}
