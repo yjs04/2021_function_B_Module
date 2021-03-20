@@ -123,6 +123,4 @@ class History{
     }
 }
 
-window.onload=()=>{
-    let history = new History();
-}
+let history = new History();
