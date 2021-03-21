@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<result>
+    <totalCount>52</totalCount>
+    <items>
+        <item><sn>1</sn><ccbaMnm1>경주역사유적지구</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000001</ccbaAsno></item>
+        <item><sn>2</sn><ccbaMnm1>고창 고인돌 유적</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000002</ccbaAsno></item>
+        <item><sn>3</sn><ccbaMnm1>화순 고인돌 유적</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000003</ccbaAsno></item>
+        <item><sn>4</sn><ccbaMnm1>강화 고인돌 유적</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000004</ccbaAsno></item>
+        <item><sn>5</sn><ccbaMnm1>남한산성</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000005</ccbaAsno></item>
+        <item><sn>6</sn><ccbaMnm1>백제역사유적지구</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000006</ccbaAsno></item>
+        <item><sn>7</sn><ccbaMnm1>산사</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000007</ccbaAsno></item>
+        <item><sn>8</sn><ccbaMnm1>산지 승원</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000008</ccbaAsno></item>
+        <item><sn>9</sn><ccbaMnm1>석굴암</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000009</ccbaAsno></item>
+        <item><sn>10</sn><ccbaMnm1>불국사</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000010</ccbaAsno></item>
+        <item><sn>11</sn><ccbaMnm1>제주 화산섬</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000011</ccbaAsno></item>
+        <item><sn>12</sn><ccbaMnm1>제주 용암동굴</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000012</ccbaAsno></item>
+        <item><sn>13</sn><ccbaMnm1>조선 왕릉</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000013</ccbaAsno></item>
+        <item><sn>14</sn><ccbaMnm1>종묘</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000014</ccbaAsno></item>
+        <item><sn>15</sn><ccbaMnm1>사직</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000015</ccbaAsno></item>
+        <item><sn>16</sn><ccbaMnm1>창덕궁</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000016</ccbaAsno></item>
+        <item><sn>17</sn><ccbaMnm1>덕수궁</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000017</ccbaAsno></item>
+        <item><sn>18</sn><ccbaMnm1>서원</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000018</ccbaAsno></item>
+        <item><sn>19</sn><ccbaMnm1>하회 마을</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000019</ccbaAsno></item>
+        <item><sn>20</sn><ccbaMnm1>양동 마을</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000020</ccbaAsno></item>
+        <item><sn>21</sn><ccbaMnm1>해인사 장경판전</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000021</ccbaAsno></item>
+        <item><sn>22</sn><ccbaMnm1>수원 화성</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000022</ccbaAsno></item>
+        <item><sn>23</sn><ccbaMnm1>팔달문</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000023</ccbaAsno></item>
+        <item><sn>24</sn><ccbaMnm1>강릉 초당동 유적</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000024</ccbaAsno></item>
+        <item><sn>25</sn><ccbaMnm1>경주 죽동리 청동기 일괄</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000025</ccbaAsno></item>
+        <item><sn>26</sn><ccbaMnm1>고양 멱절산 유적</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000026</ccbaAsno></item>
+        <item><sn>27</sn><ccbaMnm1>구성동 유적</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000027</ccbaAsno></item>
+        <item><sn>28</sn><ccbaMnm1>궁동 유적</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000028</ccbaAsno></item>
+        <item><sn>29</sn><ccbaMnm1>꽃뫼 제사 유적지</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000029</ccbaAsno></item>
+        <item><sn>30</sn><ccbaMnm1>김해 봉황동 유적</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000030</ccbaAsno></item>
+        <item><sn>31</sn><ccbaMnm1>광주 월계동 장고분</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000031</ccbaAsno></item>
+        <item><sn>32</sn><ccbaMnm1>군산 상주사 대웅전</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000032</ccbaAsno></item>
+        <item><sn>33</sn><ccbaMnm1>노은동 유적</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000033</ccbaAsno></item>
+        <item><sn>34</sn><ccbaMnm1>단양 각기리 입석</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000034</ccbaAsno></item>
+        <item><sn>35</sn><ccbaMnm1>단양 구낭굴 유적</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000035</ccbaAsno></item>
+        <item><sn>36</sn><ccbaMnm1>돌팡구지</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000036</ccbaAsno></item>
+        <item><sn>37</sn><ccbaMnm1>면목동 유적</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000037</ccbaAsno></item>
+        <item><sn>38</sn><ccbaMnm1>몽촌토성</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000038</ccbaAsno></item>
+        <item><sn>39</sn><ccbaMnm1>대전 마봉재 보루</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000039</ccbaAsno></item>
+        <item><sn>40</sn><ccbaMnm1>대전 둔산 선사유적지</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000040</ccbaAsno></item>
+        <item><sn>41</sn><ccbaMnm1>단양 수양개 유적</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000041</ccbaAsno></item>
+        <item><sn>42</sn><ccbaMnm1>단양 금굴 유적</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000042</ccbaAsno></item>
+        <item><sn>43</sn><ccbaMnm1>반송 탄요유적공원 탄요지</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000043</ccbaAsno></item>
+        <item><sn>44</sn><ccbaMnm1>부여 송국리 유적</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000044</ccbaAsno></item>
+        <item><sn>45</sn><ccbaMnm1>부여구아리백제유적</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000045</ccbaAsno></item>
+        <item><sn>46</sn><ccbaMnm1>부산 동삼동 패총</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000046</ccbaAsno></item>
+        <item><sn>47</sn><ccbaMnm1>사천 녹도 유적</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000047</ccbaAsno></item>
+        <item><sn>48</sn><ccbaMnm1>사천 늑도 유적</ccbaMnm1><ccbaKdcd>18</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000048</ccbaAsno></item>
+        <item><sn>49</sn><ccbaMnm1>상주 복룡동 유적</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000049</ccbaAsno></item>
+        <item><sn>50</sn><ccbaMnm1>서귀동 천지연 생수궤</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000050</ccbaAsno></item>
+        <item><sn>51</sn><ccbaMnm1>세종 국곡리 입석</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000051</ccbaAsno></item>
+        <item><sn>52</sn><ccbaMnm1>속초 조양동 유적</ccbaMnm1><ccbaKdcd>17</ccbaKdcd><ccbaCtcd>11</ccbaCtcd><ccbaAsno>000000052</ccbaAsno></item>
+    </items>
+</result>
