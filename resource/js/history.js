@@ -32,8 +32,9 @@ class History{
         this.historyList[idx] = {date:day,content:content};
         this.historyList.sort((a,b)=>{if(a.date.replace(/\./g,"-") > b.date.replace(/\./g,"-")) return 1; else return -1;});
         this.setLocal(`since${this.selSince}`,this.historyList);
+
+        $("#history_mod_close").click();
         alert("연혁이 수정되었습니다.");
-        document.querySelector("#history_add_popup .btn-close").click();
         this.setPage();
     }
 
@@ -53,8 +54,8 @@ class History{
         form.history_date.value = "";
         form.history_content.value = "";
 
+        $("#history_add_close").click();
         alert("연혁이 등록되었습니다.");
-        document.querySelector("#history_add_popup .btn-close").click();
         this.historyList = this.getLocal(`since${this.selSince}`) == null ? [] : this.getLocal(`since${this.selSince}`);
         this.setPage();
     }
